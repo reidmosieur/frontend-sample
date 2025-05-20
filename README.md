@@ -1,6 +1,6 @@
 # Logs Viewer Sample — React / Next.js
 
-This is a sample implementation of a **filterable, sortable, paginated log viewer** built with Next.js App Router. It demonstrates my approach to building production-ready frontend components with complex UI state, shared context, and URL synchronization.
+This is a sample implementation of a **filterable, sortable, paginated log viewer** built with Next.js App Router. It demonstrates my approach to building production-ready frontend components with complex UI state, shared context, and URL synchronization. It is intentionally a single file to make browsing simple.
 
 [Preview](https://frontend.reidmosieur.dev)
 
