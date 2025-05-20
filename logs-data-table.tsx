@@ -827,7 +827,7 @@ function Paginator(props: React.ComponentProps<"nav">) {
 export function LogsDataTable() {
   return (
     <LogsContextProvider>
-      <Card>
+      <Card className="max-w-xs w-full sm:max-w-none">
         <CardHeader>
           <CardTitle>
             <h1>Front-End Sample</h1>
